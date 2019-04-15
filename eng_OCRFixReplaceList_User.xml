@@ -1,0 +1,15 @@
+<ReplaceList>
+  <WholeWords>
+    <Word from="Ibefieve" to="I believe" />
+    <Word from="judgement" to="judgment" />
+  </WholeWords>
+  <PartialLines />
+  <BeginLines />
+  <EndLines />
+  <WholeLines />
+  <RemovedWholeWords />
+  <RemovedPartialLines />
+  <RemovedBeginLines />
+  <RemovedEndLines />
+  <RemovedWholeLines />
+</ReplaceList>

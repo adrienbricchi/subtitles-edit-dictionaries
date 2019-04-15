@@ -1,6 +1,14 @@
 <ReplaceList>
   <WholeWords>
     <Word from="l'Enz'erprise" to="l'Enterprise" />
+    <Word from="l'EPIDEMIE" to="L'ÉPIDÉMIE" />
+    <Word from="EPIDEMIE" to="ÉPIDÉMIE" />
+    <Word from="Iétal" to="létal" />
+    <Word from="féérique" to="féerique" />
+    <Word from="anonnalement" to="anormalement" />
+    <Word from="c'estjuste" to="c’est juste" />
+    <Word from="d'Hany" to="d'Harry" />
+    <Word from="xn" to="XII" />
   </WholeWords>
   <PartialLines />
   <BeginLines />
