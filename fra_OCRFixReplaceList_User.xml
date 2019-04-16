@@ -9,6 +9,10 @@
     <Word from="c'estjuste" to="c’est juste" />
     <Word from="d'Hany" to="d'Harry" />
     <Word from="xn" to="XII" />
+    <Word from="DELA" to="DELÀ" />
+    <Word from="l'ETOILE" to="L'ÉTOILE" />
+    <Word from="Iabo" to="labo" />
+    <Word from="récupèrerons" to="récupérerons" />
   </WholeWords>
   <PartialLines />
   <BeginLines />

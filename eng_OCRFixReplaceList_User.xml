@@ -2,6 +2,10 @@
   <WholeWords>
     <Word from="Ibefieve" to="I believe" />
     <Word from="judgement" to="judgment" />
+    <Word from="lknow" to="l know" />
+    <Word from="lbeheve" to="l believe" />
+    <Word from="lcannotsay" to="l cannot say" />
+    <Word from="Icannotdefine" to="I cannot define" />
   </WholeWords>
   <PartialLines />
   <BeginLines />
